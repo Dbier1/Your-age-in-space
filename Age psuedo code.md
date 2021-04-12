@@ -27,7 +27,7 @@
                             (age on Earth times number of earth days in earth  year)                                   
                                        divided by   
                               earth days in Saturn year
-Display  “Age on Earth  “ message with the age entered by the user
+	Display  “Age on Earth  “ message with the age entered by the user
 
       	 Display “Age on Mercury “ message with the calculated Mercury age 
 
@@ -39,4 +39,4 @@ Display  “Age on Earth  “ message with the age entered by the user
 
      	Stop processing
 
-End Program Age
+	End Program Age
