@@ -1,8 +1,9 @@
 # Your-age-in-space.java
-# The program takes your age on earth and calculates your age based on the annual cycles of mercury, Venus, Jupiter, and Saturn
 
-Begin Age
-Prompt the user for an age
+#The program takes your age on earth and calculates your age based on the annual cycles of mercury, Venus, Jupiter, and Saturn
+
+	Begin Age
+	Prompt the user for an age
 
 	Verify that the age is an integer
 
